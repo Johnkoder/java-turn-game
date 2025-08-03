@@ -2,8 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.idea
-turn_game.iml
+/.idea
+/turn_game.iml
 
 ### Eclipse ###
 .apt_generated
